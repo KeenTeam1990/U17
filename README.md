@@ -24,11 +24,7 @@
 ###### 4. 个人中心
 <img src="项目截图/4.jpg" width="375">
 
-#### 特别鸣谢:
-spicyShrimp [旧版仿有妖气漫画APP源代码](https://github.com/spicyShrimp/U17)
-lb2281075105 [旧版仿有妖气漫画APP源代码](https://github.com/lb2281075105/LBU25-Swift)
-
-#### 更多 - More
+####  5.更多 - More
 - 如果您发现了bug请尽可能详细地描述系统版本、手机型号和复现步骤等信息 提一个issue.
 - 如果您有什么好的建议也可以提issue,大家一起讨论一起学习进步...
 - 具体代码请下载项目  如果觉得喜欢的能给一颗小星星么!  ✨
