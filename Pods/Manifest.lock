@@ -1,0 +1,78 @@
+PODS:
+  - Alamofire (4.9.1)
+  - EmptyDataSet-Swift (5.0.0)
+  - HandyJSON (5.0.2)
+  - HMSegmentedControl (1.5.6)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Kingfisher (4.10.1)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.5.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Result (4.1.0)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+  - SnapKit (4.2.0)
+  - SnapKitExtend (1.0.7):
+    - SnapKit
+  - Then (2.7.0)
+  - UINavigation-SXFixSpace (1.2.4)
+
+DEPENDENCIES:
+  - EmptyDataSet-Swift
+  - HandyJSON
+  - HMSegmentedControl
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - MBProgressHUD
+  - MJRefresh
+  - Moya
+  - Reusable
+  - SnapKitExtend
+  - Then
+  - UINavigation-SXFixSpace
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - EmptyDataSet-Swift
+    - HandyJSON
+    - HMSegmentedControl
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MBProgressHUD
+    - MJRefresh
+    - Moya
+    - Result
+    - Reusable
+    - SnapKit
+    - SnapKitExtend
+    - Then
+    - UINavigation-SXFixSpace
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  HMSegmentedControl: 34c1f54d822d8308e7b24f5d901ec674dfa31352
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SnapKitExtend: 00ee4db6d1f80bee01a1e75745f2a6ae695ba662
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+  UINavigation-SXFixSpace: 10f223253ebff2ceefa26694e23b7694269763c4
+
+PODFILE CHECKSUM: 290f2186f0a3724bbb66ef801a3437a177f9bf03
+
+COCOAPODS: 1.10.0
