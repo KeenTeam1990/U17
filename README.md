@@ -1,6 +1,6 @@
 # U17 高仿有妖气漫画APP
 
-#### 高仿有妖气漫画APP（最新V5.0版本）核心界面功能**
+#### 高仿有妖气漫画APP（最新swift-V5.0版本）核心界面功能**
 
 高仿有妖气漫画APP开发语言组件：Swift5(Moya+Alamofire、HandyJSON、Kingfisher、SnapKit、MJRefresh)
 
